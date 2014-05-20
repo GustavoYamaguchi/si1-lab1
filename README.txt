@@ -1,3 +1,3 @@
 si1-lab1
 ========
-Este � o clone 2 do repositório, e tem meu código para o lab1
+Este é o clone 2 do repositÃ³rio, e tem meu cÃ³digo para o lab1
